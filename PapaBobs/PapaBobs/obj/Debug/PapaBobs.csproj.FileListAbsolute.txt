@@ -1,0 +1,28 @@
+c:\users\alex\documents\visual studio 2017\Projects\PapaBobs\PapaBobs\bin\PapaBobs.dll.config
+c:\users\alex\documents\visual studio 2017\Projects\PapaBobs\PapaBobs\bin\PapaBobs.dll
+c:\users\alex\documents\visual studio 2017\Projects\PapaBobs\PapaBobs\bin\PapaBobs.pdb
+c:\users\alex\documents\visual studio 2017\Projects\PapaBobs\PapaBobs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\alex\documents\visual studio 2017\Projects\PapaBobs\PapaBobs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\alex\documents\visual studio 2017\Projects\PapaBobs\PapaBobs\obj\Debug\PapaBobs.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\PapaBobs\PapaBobs\obj\Debug\PapaBobs.dll
+c:\users\alex\documents\visual studio 2017\Projects\PapaBobs\PapaBobs\obj\Debug\PapaBobs.pdb
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\PapaBobs.dll.config
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\PapaBobs.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\PapaBobs.pdb
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\obj\Debug\PapaBobs.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\obj\Debug\PapaBobs.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\obj\Debug\PapaBobs.pdb
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\EntityFramework.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\EntityFramework.SqlServer.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\EntityFramework.xml
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\EntityFramework.SqlServer.xml
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\PapaBobs.Domain.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\PapaBobs.Domain.pdb
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\PapaBobs.DTO.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\PapaBobs.Persistence.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\PapaBobs.DTO.pdb
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\PapaBobs.Persistence.pdb
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\PapaBobs.Persistence.dll.config
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs\bin\Elmah.dll

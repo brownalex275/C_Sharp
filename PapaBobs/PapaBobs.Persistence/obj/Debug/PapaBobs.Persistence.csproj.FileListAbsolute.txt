@@ -1,0 +1,13 @@
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.pdb
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\obj\Debug\PapaBobs.Persistence.pdb
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.Persistence.dll.config
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.xml
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.dll
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\Alex\Documents\C#\C_Sharp\PapaBobs\PapaBobs.Persistence\bin\Debug\Elmah.dll
